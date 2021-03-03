@@ -13,5 +13,10 @@ public class ClasseProva {
 	{
 		System.out.println("");
 	}
+	
+	private void secondoTest()
+	{
+		System.out.println("Riciao");
+	}
 
 }
